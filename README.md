@@ -14,7 +14,7 @@ composer install # Install dependencies using Composer.
 php artisan migrate  # Run database migrations.
 cp .env.example .env
 ```
-4. Open this file and add you database name
+4. Open .env file and add you database name
 
 ## Usage
 To run the project, follow these steps:
