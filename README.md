@@ -12,7 +12,10 @@ git clone https://github.com/0xx01/Vuln-Web-Lab.git
 cd Vuln-Web-Lab/
 composer install # Install dependencies using Composer.
 php artisan migrate  # Run database migrations.
+cp .env.example .env
 ```
+4. Open this file and add you database name
+
 ## Usage
 To run the project, follow these steps:
 1. Start the development server.
