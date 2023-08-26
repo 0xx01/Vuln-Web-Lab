@@ -1,6 +1,6 @@
 # Vuln Web Lab
 ## Description 
-A simple lab that has been designed intentionally with vulnerabilities for training purposes.
+A simple lab that has been developed intentionally with vulnerabilities for training purposes.
 
 ## Installation
 Follow these steps to install and set up the lab:
