@@ -31,6 +31,6 @@ class AddOrderRequest extends FormRequest
     }
 
     public function store(){
-        Order::create($this->all(),['user_id',auth()->user()->id]);
+        Order::create($this->all());
     }
 }
