@@ -4,7 +4,7 @@
     <div class="container-fluid">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title fw-semibold mb-4">Headings</h5>
+          <h5 class="card-title fw-semibold mb-4"></h5>
           <div class="card">
 
           <div class="card mb-0">
@@ -23,7 +23,7 @@
                         </div>
                     @endif
                     <table class="table card-table" id="myTable">
-                        <h1 align="center">Admins information</h1>
+                        <h1 align="center">Orders information</h1>
                         <thead>
                         <tr>
                             <th>ID</th>
