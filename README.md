@@ -12,8 +12,6 @@ git clone https://github.com/0xx01/Vuln-Web-Lab.git
 cd Vuln-Web-Lab/
 composer install # Install dependencies using Composer.
 php artisan migrate  # Run database migrations.
-
-
 ```
 ## Usage
 To run the project, follow these steps:
@@ -24,6 +22,6 @@ php artisan serve
 2. Finally, Open a web browser and visit http://localhost:8000 to access the application.
 
 3. Explore the various features and functionalities of the lab. Take note of the intentional vulnerabilities and use them for training purposes.
-
+![Screenshot (349)](https://github.com/0xx01/Vuln-Web-Lab/assets/130947610/f5b28a9c-8003-4e7d-b2e8-43b70ec88829)
 ## Contribute
 If you have any problem or new idea, feel free to create an issue, or pull a request.
